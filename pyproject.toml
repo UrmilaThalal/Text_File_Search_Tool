@@ -1,0 +1,19 @@
+[project]
+name = "text_file_search_tool-urmila"
+version = "0.1.0"
+authors = [
+  { name="Urmila Thalal", email="utsabithalal@gmail.com" },
+]
+description = "A tool to search for text inside files efficiently"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICENSE"]
+
+[project.urls]
+Homepage = "https://github.com/UrmilaThalal/Text_File_Search_Tool"
+Issues = "https://github.com/UrmilaThalal/Text_File_Search_Tool/issues"
